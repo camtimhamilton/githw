@@ -2,3 +2,5 @@ hello, world!
 
 hello, Maxin!
 Life is really Strange!
+
+But what about Chloe?
